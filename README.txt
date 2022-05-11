@@ -15,7 +15,7 @@ Tutorial:
 	https://github.com/tesseract-ocr/tesseract
 	gw sih pake versi 5.0.1.20220107
 4. Jangan lupa ganti directory tesseract dalam bot
-5. Cek posisi menggunakan position.py
+5. Cek posisi pixel menggunakan position.py
 6. Tidak disarankan menggunakan compiler selain IDLE editor untuk menjalankan bot namun bisa menggunakan command prompt biasa untuk menjalankannya dengan cara:
 	-pindah ke directory botnya
 	-ketik : python namaApp.py
