@@ -11,6 +11,7 @@ Tutorial:
 	pip install keyboard
 	pip install pyautogui
 	pip install Pillow
+	pip install pytesseract
 3. Install Tesseract OCR 
 	https://github.com/tesseract-ocr/tesseract
 	gw sih pake versi 5.0.1.20220107
@@ -24,3 +25,7 @@ Note:
 -Tekan keyboard 'K' untuk pause bot
 -Tekan keyboard '+' untuk unpause bot
 -Tekan keyboard 'esc' saat unpause untuk stop
+
+Referensi:
+https://www.youtube.com/watch?v=fFOdqjBnSBw&t=99s
+https://www.youtube.com/watch?v=YRAIUA-Oc1Y&t=745s
